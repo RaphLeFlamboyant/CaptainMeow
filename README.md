@@ -9,7 +9,7 @@ Prog & GD - Raphaël CANDELARESI
 
 Prog & GD - Renaud BARDET
 
-Graphics - Alexandra 
+Graphics - Alexandra Chaillou
 
-Sounds & Music - Louis Godard
+Sounds & Music - Louis Godart
 
